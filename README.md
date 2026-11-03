@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Hamim 👋
 
-<!--
-**HumbleHamim/HumbleHamim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year **Data Science** student at **Metropolitan University**, Bangladesh.
+I like turning ideas into working software, especially AI tools that solve everyday problems, and I care about clean, careful design.
 
-Here are some ideas to get you started:
+🌐 **Portfolio:** [humblehamim.pages.dev](https://humblehamim.pages.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+- **[MU Live Bus Tracker](https://github.com/HumbleHamim/MU-Bus-Tracker)**: live bus tracking for university students
+- **[Uchcharonai](https://github.com/HumbleHamim/Uccharon-AI-by-Kirrahdia-team)**: a Bangla speech and phoneme-check tool
+
+## Tools I use
+`HTML` `JavaScript` `TypeScript` `React` `Firebase` `Leaflet.js` `Git` `Godot` `GDScript` `Power BI`
+
+## Find me
+[LinkedIn](https://www.linkedin.com/in/humblehamim/) · [Instagram](https://www.instagram.com/humble.hamim/) · [TikTok](https://www.tiktok.com/@humble.hamim) · [Facebook](https://www.facebook.com/ImHamimAhmed) · hamimhb123@gmail.com
+
+Still a student, always learning.
