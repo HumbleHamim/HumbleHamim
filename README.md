@@ -5,7 +5,7 @@ I like turning ideas into working software, especially AI tools that solve every
 
 🌐 **Portfolio:** [humblehamim.pages.dev](https://humblehamim.pages.dev)
 
-## What I'm building
+## What I've Built:
 - **[MU Live Bus Tracker](https://github.com/HumbleHamim/MU-Bus-Tracker)**: live bus tracking for university students
 - **[Uchcharonai](https://github.com/HumbleHamim/Uccharon-AI-by-Kirrahdia-team)**: a Bangla speech and phoneme-check tool
 
@@ -13,6 +13,6 @@ I like turning ideas into working software, especially AI tools that solve every
 `HTML` `JavaScript` `TypeScript` `React` `Firebase` `Leaflet.js` `Git` `Godot` `GDScript` `Power BI`
 
 ## Find me
-[LinkedIn](https://www.linkedin.com/in/humblehamim/) · [Instagram](https://www.instagram.com/humble.hamim/) · [TikTok](https://www.tiktok.com/@humble.hamim) · [Facebook](https://www.facebook.com/ImHamimAhmed) · hamimhb123@gmail.com
+[LinkedIn](https://www.linkedin.com/in/humblehamim/) · [Instagram](https://www.instagram.com/humble.hamim/) · [Facebook](https://www.facebook.com/ImHamimAhmed) · hamimhb123@gmail.com
 
 Still a student, always learning.
